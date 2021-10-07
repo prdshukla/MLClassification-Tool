@@ -11,12 +11,12 @@ using System.Windows.Forms;
 
 namespace MachineLearningClassify
 {
-    public partial class Form1 : Form
+    public partial class MLClassifierUI : Form
     {
         public string TrainFileLocation;
         public string TestFileLocation;
         public string ModelLocation;
-        public Form1()
+        public MLClassifierUI()
         {
             InitializeComponent();
             this.KeyPreview = true;

@@ -1,6 +1,6 @@
 ﻿namespace MachineLearningClassify
 {
-    partial class Form1
+    partial class MLClassifierUI
     {
         /// <summary>
         /// Required designer variable.
